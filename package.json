@@ -1,6 +1,6 @@
 {
   "name": "recharts-to-svg",
-  "version": "1.0.1-2.13.3",
+  "version": "1.0.2-2.13.3",
   "description": "Generate SVG from Recharts code",
   "license": "ISC",
   "author": {
@@ -12,6 +12,7 @@
     "recharts",
     "svg"
   ],
+	"repository": "https://github.com/sashee/recharts-to-svg",
   "main": "dist/index.js",
   "files": [
     "dist"

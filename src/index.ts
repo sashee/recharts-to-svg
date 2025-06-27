@@ -20,7 +20,7 @@ export const renderRecharts = async (code: string) => {
 		// this makes Chrome show a broken image when added as an inline src
 		const svgElem = frag.querySelector("svg");
 		if (svgElem === null) {
-			throw new Error("Whops");
+			throw new Error("svgElem is null");
 		}
 		svgElem.setAttribute("xmlns", "http://www.w3.org/2000/svg");
 		const svg = svgElem.outerHTML;

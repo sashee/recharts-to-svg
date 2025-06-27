@@ -1,6 +1,6 @@
 {
   "name": "recharts-to-svg",
-  "version": "1.0.2-2.13.3",
+  "version": "2.0.0-2.15.4",
   "description": "Generate SVG from Recharts code",
   "license": "ISC",
   "author": {
